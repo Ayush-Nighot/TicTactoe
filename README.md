@@ -1,2 +1,2 @@
-# TicTactoe
- Fun Two Player Game
+# TicTacToe
+ Fun Game Tic Tac Toe
